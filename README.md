@@ -413,16 +413,15 @@ MySQL            ███████████████░░░░░ 80
 
 </div>
 <!-- ========================================================= --> <!-- TROPHIES --> <!-- ========================================================= --> <div align="center">
-🏆 GitHub Achievements
+
+## 🏆 GitHub Achievements
+
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=arpitrai38&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
-
-</div>
-<!-- ========================================================= --> <!-- CURRENT MISSION --> <!-- ========================================================= --> <div align="center">
-🎯 Current Mission
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Become+a+Better+Software+Engineer+%F0%9F%92%BB;Build+Real-World+Applications+%F0%9F%9A%80;Master+Data+Structures+%26+Algorithms+%F0%9F%A7%A0;Learn+Modern+Web+Technologies+%F0%9F%8C%90;Create+Something+Meaningful+%E2%9C%A8" alt="Current Mission" />
+<img
+  src="https://github-profile-trophy.vercel.app/?username=arpitrai38&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=6"
+  alt="GitHub Trophies"
+/>
 
 </div>
 <!-- ========================================================= --> <!-- CONNECT --> <!-- ========================================================= --> <div align="center">
