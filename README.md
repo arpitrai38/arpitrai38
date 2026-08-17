@@ -1,82 +1,98 @@
-<!-- Premium Animated Header Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:111827,70:00C6FF,100:050505&height=250&section=header&text=Arpit%20Rai&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&stroke=00F0FF&strokeWidth=1" />
-</div>
+<!-- ========================================================= -->
+<!--                    PREMIUM DEVELOPER HEADER               -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Arpit+Rai+%F0%9F%91%8B;Frontend+Developer+%7C+Tech+Enthusiast;Building+Ideas+into+Reality+%F0%9F%9A%80;Welcome+to+my+Digital+Workspace+%E2%9C%A8" alt="Typing SVG" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,75:2563EB,100:0EA5E9&height=250&section=header&text=Arpit%20Rai&fontSize=72&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&stroke=60A5FA&strokeWidth=1"
+  width="100%"
+  alt="Arpit Rai Header"
+/>
 
-</div>
+<br>
 
-<!-- ASCII Profile Image -->
-<img src="arpit-rai-ascii-profile.png" alt="Arpit Rai ASCII Portrait" width="600" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Hi+there!+I'm+Arpit+Rai+%F0%9F%91%8B;Computer+Science+Engineering+Student+%F0%9F%92%BB;Frontend+Developer+%7C+Tech+Enthusiast;Building+Real-World+Projects+%F0%9F%9A%80;Turning+Ideas+Into+Digital+Experiences+%E2%9C%A8"
+  alt="Typing Animation"
+/>
 
 <br><br>
 
-<!-- Animated Typing Text -->
-<a href="https://github.com/arpitrai38">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Arpit+Rai+👋;Frontend+Developer+%7C+Tech+Enthusiast;Building+WanderWise+(Bharat+Bharaman)+💻;Smart+India+Hackathon+Participant+🚀;Crafting+Ideas+into+Reality+✨" alt="Typing SVG" />
-</a>
+<img
+  src="https://komarev.com/ghpvc/?username=arpitrai38&label=PROFILE%20VIEWS&style=for-the-badge&color=2563EB&labelColor=0F172A"
+  alt="Profile Views"
+/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <b>Welcome to my digital workspace!</b>
+&nbsp;
+
+<img
+  src="https://img.shields.io/github/followers/arpitrai38?label=FOLLOWERS&style=for-the-badge&color=2563EB&labelColor=0F172A&logo=github"
+  alt="GitHub Followers"
+/>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                         INTRO                              -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+## 👨‍💻 Welcome to my Digital Space
+
+<p>
+  <b>Developer • Learner • Builder</b>
 </p>
 
-<!-- Animated GitHub Trophies -->
-<a href="https://github.com/arpitrai38">
-  <img src="https://github-profile-trophy.vercel.app/?username=arpitrai38&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</a>
+<p>
+  I love transforming ideas into clean, useful and engaging
+  digital experiences.
+</p>
 
 </div>
 
 <br>
 
-### 👨‍💻 About Me
+<!-- ========================================================= -->
+<!--                       PROFILE                              -->
+<!-- ========================================================= -->
 
-- 🎓 Student at **Institute of Technology and Management (ITM), Gida, Gorakhpur**.
-- 🔭 Currently building **WanderWise (Bharat Bharaman)** - An AI-powered smart trip planning platform.
-- 🌱 Honing my skills in **Frontend Development (HTML, CSS, JS)** and **Data Structures (C++)**.
-- 💼 Experienced in developing robust data models and automated flows (Salesforce).
-- 🏆 Proud participant of the **Smart India Hackathon (SIH)**.
-- ⚡ Fun fact: Whether it's organizing tech fests like *Parampara* or debugging code, I love bringing ideas to life!
+<table>
+<tr>
 
-<br>
+<td width="45%" align="center" valign="middle">
 
-### 🛠️ Tech Stack & Tools
+<img
+  src="arpit-rai-ascii-profile.png"
+  alt="Arpit Rai Profile"
+  width="100%"
+/>
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,git,github,vscode,figma&theme=dark" alt="Skills" />
-  </a>
-</div>
+</td>
 
-<br>
+<td width="55%" valign="top">
 
-### 📊 GitHub Stats (Live & Animated)
+## ✨ A Little About Me
 
-<div align="center">
-  <a href="https://github.com/arpitrai38">
-    <img src="https://github-readme-stats.vercel.app/api?username=arpitrai38&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/arpitrai38">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitrai38&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
+I'm **Arpit Rai**, a Computer Science Engineering student at  
+**Institute of Technology and Management (ITM), GIDA, Gorakhpur**.
 
-<br>
+I'm passionate about **Web Development, Programming and building
+real-world applications**.
 
-### 🏆 Top Languages
+### 🎯 Currently Focused On
 
-<div align="center">
-  <a href="https://github.com/arpitrai38">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitrai38&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
+- 🌐 Modern Web Development
+- ⚛️ React & Frontend Development
+- 🧠 Data Structures & Algorithms
+- 💻 C++ Programming
+- 🚀 Full Stack Development
+- 🎨 Creating better user experiences
 
-<br>
+### 💭 My Approach
 
-<!-- Animated Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer" />
-</div>
+```text
+Learn → Build → Break → Debug → Improve → Repeat
