@@ -1,11 +1,11 @@
 <!-- ========================================================= -->
-<!--                    PREMIUM DEVELOPER HEADER               -->
+<!--                 PREMIUM DEVELOPER PROFILE                 -->
 <!-- ========================================================= -->
 
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,75:2563EB,100:0EA5E9&height=250&section=header&text=Arpit%20Rai&fontSize=72&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&stroke=60A5FA&strokeWidth=1"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:1E3A8A,70:2563EB,100:0EA5E9&height=250&section=header&text=Arpit%20Rai&fontSize=72&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&stroke=60A5FA&strokeWidth=1"
   width="100%"
   alt="Arpit Rai Header"
 />
@@ -24,8 +24,6 @@
   alt="Profile Views"
 />
 
-&nbsp;
-
 <img
   src="https://img.shields.io/github/followers/arpitrai38?label=FOLLOWERS&style=for-the-badge&color=2563EB&labelColor=0F172A&logo=github"
   alt="GitHub Followers"
@@ -36,20 +34,18 @@
 ---
 
 <!-- ========================================================= -->
-<!--                         INTRO                              -->
+<!--                       INTRODUCTION                         -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-## 👨‍💻 Welcome to my Digital Space
+## 👨‍💻 Welcome to My Digital Space
+
+### `Developer • Learner • Builder`
 
 <p>
-  <b>Developer • Learner • Builder</b>
-</p>
-
-<p>
-  I love transforming ideas into clean, useful and engaging
-  digital experiences.
+I love transforming ideas into clean, useful and engaging
+digital experiences.
 </p>
 
 </div>
@@ -57,31 +53,31 @@
 <br>
 
 <!-- ========================================================= -->
-<!--                       PROFILE                              -->
+<!--                         PROFILE                            -->
 <!-- ========================================================= -->
 
 <table>
 <tr>
 
-<td width="45%" align="center" valign="middle">
+<td width="42%" align="center" valign="middle">
 
 <img
   src="arpit-rai-ascii-profile.png"
-  alt="Arpit Rai Profile"
+  alt="Arpit Rai ASCII Profile"
   width="100%"
 />
 
 </td>
 
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
-## ✨ A Little About Me
+## ✨ About Me
 
 I'm **Arpit Rai**, a Computer Science Engineering student at  
 **Institute of Technology and Management (ITM), GIDA, Gorakhpur**.
 
-I'm passionate about **Web Development, Programming and building
-real-world applications**.
+I'm passionate about **Web Development, Programming,
+Problem Solving and building real-world applications**.
 
 ### 🎯 Currently Focused On
 
@@ -90,9 +86,10 @@ real-world applications**.
 - 🧠 Data Structures & Algorithms
 - 💻 C++ Programming
 - 🚀 Full Stack Development
-- 🎨 Creating better user experiences
+- 🎨 UI/UX and better user experiences
+- 🔧 Building practical projects
 
-### 💭 My Approach
+### 💭 My Development Philosophy
 
 ```text
-Learn → Build → Break → Debug → Improve → Repeat
+Learn → Build → Debug → Improve → Ship → Repeat
