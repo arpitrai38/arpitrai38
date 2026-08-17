@@ -397,20 +397,20 @@ MySQL            ███████████████░░░░░ 80
 📊 GitHub Analytics
 <br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=arpitrai38&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0F172A&title_color=38BDF8&icon_color=60A5FA&text_color=E2E8F0" alt="Arpit Rai GitHub Stats" />
+<!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=arpitrai38&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0F172A&title_color=38BDF8&icon_color=60A5FA&text_color=E2E8F0" alt="Arpit Rai GitHub Stats" /> -->
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitrai38&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0" alt="Arpit Rai Top Languages" />
+<!-- <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitrai38&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0" alt="Arpit Rai Top Languages" /> -->
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=arpitrai38&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=60A5FA&currStreakLabel=38BDF8&sideLabels=E2E8F0&dates=94A3B8" alt="Arpit Rai GitHub Streak" />
+<!-- <img src="https://streak-stats.demolab.com?user=arpitrai38&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=60A5FA&currStreakLabel=38BDF8&sideLabels=E2E8F0&dates=94A3B8" alt="Arpit Rai GitHub Streak" /> -->
 
 </div>
 <!-- ========================================================= --> <!-- CONTRIBUTION GRAPH --> <!-- ========================================================= --> <div align="center">
 📈 Contribution Activity
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitrai38&bg_color=0F172A&color=E2E8F0&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub Contribution Graph" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitrai38&bg_color=0F172A&color=E2E8F0&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub Contribution Graph" /> -->
 
 </div>
 <!-- ========================================================= --> <!-- TROPHIES --> <!-- ========================================================= --> <div align="center">
@@ -419,10 +419,10 @@ MySQL            ███████████████░░░░░ 80
 
 <br>
 
-<img
+<!-- <img
   src="https://github-profile-trophy.vercel.app/?username=arpitrai38&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=6"
   alt="GitHub Trophies"
-/>
+/> -->
 
 </div>
 <!-- ========================================================= --> <!-- CONNECT --> <!-- ========================================================= --> <div align="center">
