@@ -1,9 +1,13 @@
 <!-- Premium Animated Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Arpit%20Rai&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:111827,70:00C6FF,100:050505&height=250&section=header&text=Arpit%20Rai&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&stroke=00F0FF&strokeWidth=1" />
 </div>
 
 <div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Arpit+Rai+%F0%9F%91%8B;Frontend+Developer+%7C+Tech+Enthusiast;Building+Ideas+into+Reality+%F0%9F%9A%80;Welcome+to+my+Digital+Workspace+%E2%9C%A8" alt="Typing SVG" />
+
+</div>
 
 <!-- ASCII Profile Image -->
 <img src="arpit-rai-ascii-profile.png" alt="Arpit Rai ASCII Portrait" width="600" />
